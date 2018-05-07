@@ -1,3 +1,4 @@
 Name: Clement
 Age: 28
 Favorite Color: Blue
+Pet: cat
